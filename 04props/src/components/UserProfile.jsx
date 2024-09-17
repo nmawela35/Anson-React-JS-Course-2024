@@ -20,7 +20,7 @@ export function UserProfile(props){
     )
 
 }
-
+``
 // UserProfile.propTypes ={
 //     username: propTypes.string.i
 // }
